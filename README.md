@@ -1,8 +1,8 @@
-# cryptocatbottrader
-Dynamic Ping-Pong bot for cryptocurrencies written in Java
-Trading software for algo-trading cryptocurrencies and tokens. Userfriendly GUI. Written in Java Code. Many supported Exchanges API.
+# C.A.T Bot - cryptocatbottrader
+#Dynamic Ping-Pong bot for cryptocurrencies written in Java
+#Trading software for algo-trading cryptocurrencies and tokens. Userfriendly GUI. Written in Java Code. Many supported #Exchanges API.
 
-Website: https://cryptocatbot.com
+#Website: https://cryptocatbot.com
 
 Exchanges support: Poloniex, Bittrex, Kraken, HitBTC, BitStamp, Bitfinex, C-CEX, OKCoin, Liqui, CEX.IO, YoBit, Livecoin, Vaultoro, TheRockTrading, Coinsecure, STEX
 
